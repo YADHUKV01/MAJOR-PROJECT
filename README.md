@@ -1,7 +1,7 @@
 
 # MAJOR-PROJECT
 
-## Customer Behaviour Recommendation System
+## Customer Behaviour and Recommendation System
 
 This project analyzes customer preferences using Swiggy-like data and builds a recommendation system. Developed as part of my B.Sc Data Science major project.
 
